@@ -1,0 +1,6 @@
+{
+  "name": "PurchaseWise",
+  "description": "Evidence-backed shopping decisions: find, verify and compare products with traceable catalog evidence.",
+  "permissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

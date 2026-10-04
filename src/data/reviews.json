@@ -1,0 +1,1082 @@
+[
+  {
+    "review_id": "rev_demo_laptop_001_1",
+    "product_id": "demo_laptop_001",
+    "rating": 5,
+    "title": "Excellent MacBook Air M2 (13.6-inch) performance",
+    "text": "The MacBook Air M2 (13.6-inch) handles coding, multitasking, and daily productivity tasks smoothly. Battery endurance and display clarity are standout features.",
+    "verified_purchase": true,
+    "helpful_votes": 15,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_laptop_001_2",
+    "product_id": "demo_laptop_001",
+    "rating": 3,
+    "title": "Good value, but has thermal and noise trade-offs",
+    "text": "I enjoy using the MacBook Air M2 (13.6-inch), but under sustained high workloads fan noise increases and keyboard deck gets warm.",
+    "verified_purchase": true,
+    "helpful_votes": 8,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_laptop_001_3",
+    "product_id": "demo_laptop_001",
+    "rating": 2,
+    "title": "Port selection and upgrade limitations",
+    "text": "The MacBook Air M2 (13.6-inch) is fine for basic tasks, but limited port options or soldered RAM make future upgrades frustrating.",
+    "verified_purchase": false,
+    "helpful_votes": 4,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_laptop_002_1",
+    "product_id": "demo_laptop_002",
+    "rating": 5,
+    "title": "Excellent ASUS ROG Zephyrus G14 (2024) performance",
+    "text": "The ASUS ROG Zephyrus G14 (2024) handles coding, multitasking, and daily productivity tasks smoothly. Battery endurance and display clarity are standout features.",
+    "verified_purchase": true,
+    "helpful_votes": 15,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_laptop_002_2",
+    "product_id": "demo_laptop_002",
+    "rating": 3,
+    "title": "Good value, but has thermal and noise trade-offs",
+    "text": "I enjoy using the ASUS ROG Zephyrus G14 (2024), but under sustained high workloads fan noise increases and keyboard deck gets warm.",
+    "verified_purchase": true,
+    "helpful_votes": 8,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_laptop_002_3",
+    "product_id": "demo_laptop_002",
+    "rating": 2,
+    "title": "Port selection and upgrade limitations",
+    "text": "The ASUS ROG Zephyrus G14 (2024) is fine for basic tasks, but limited port options or soldered RAM make future upgrades frustrating.",
+    "verified_purchase": false,
+    "helpful_votes": 4,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_laptop_003_1",
+    "product_id": "demo_laptop_003",
+    "rating": 5,
+    "title": "Excellent Lenovo IdeaPad Slim 3 15IAH8 performance",
+    "text": "The Lenovo IdeaPad Slim 3 15IAH8 handles coding, multitasking, and daily productivity tasks smoothly. Battery endurance and display clarity are standout features.",
+    "verified_purchase": true,
+    "helpful_votes": 15,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_laptop_003_2",
+    "product_id": "demo_laptop_003",
+    "rating": 3,
+    "title": "Good value, but has thermal and noise trade-offs",
+    "text": "I enjoy using the Lenovo IdeaPad Slim 3 15IAH8, but under sustained high workloads fan noise increases and keyboard deck gets warm.",
+    "verified_purchase": true,
+    "helpful_votes": 8,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_laptop_003_3",
+    "product_id": "demo_laptop_003",
+    "rating": 2,
+    "title": "Port selection and upgrade limitations",
+    "text": "The Lenovo IdeaPad Slim 3 15IAH8 is fine for basic tasks, but limited port options or soldered RAM make future upgrades frustrating.",
+    "verified_purchase": false,
+    "helpful_votes": 4,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_laptop_004_1",
+    "product_id": "demo_laptop_004",
+    "rating": 5,
+    "title": "Excellent Dell XPS 13 9340 performance",
+    "text": "The Dell XPS 13 9340 handles coding, multitasking, and daily productivity tasks smoothly. Battery endurance and display clarity are standout features.",
+    "verified_purchase": true,
+    "helpful_votes": 15,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_laptop_004_2",
+    "product_id": "demo_laptop_004",
+    "rating": 3,
+    "title": "Good value, but has thermal and noise trade-offs",
+    "text": "I enjoy using the Dell XPS 13 9340, but under sustained high workloads fan noise increases and keyboard deck gets warm.",
+    "verified_purchase": true,
+    "helpful_votes": 8,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_laptop_004_3",
+    "product_id": "demo_laptop_004",
+    "rating": 2,
+    "title": "Port selection and upgrade limitations",
+    "text": "The Dell XPS 13 9340 is fine for basic tasks, but limited port options or soldered RAM make future upgrades frustrating.",
+    "verified_purchase": false,
+    "helpful_votes": 4,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_laptop_005_1",
+    "product_id": "demo_laptop_005",
+    "rating": 5,
+    "title": "Excellent HP Victus 15-fa1093TX performance",
+    "text": "The HP Victus 15-fa1093TX handles coding, multitasking, and daily productivity tasks smoothly. Battery endurance and display clarity are standout features.",
+    "verified_purchase": true,
+    "helpful_votes": 15,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_laptop_005_2",
+    "product_id": "demo_laptop_005",
+    "rating": 3,
+    "title": "Good value, but has thermal and noise trade-offs",
+    "text": "I enjoy using the HP Victus 15-fa1093TX, but under sustained high workloads fan noise increases and keyboard deck gets warm.",
+    "verified_purchase": true,
+    "helpful_votes": 8,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_laptop_005_3",
+    "product_id": "demo_laptop_005",
+    "rating": 2,
+    "title": "Port selection and upgrade limitations",
+    "text": "The HP Victus 15-fa1093TX is fine for basic tasks, but limited port options or soldered RAM make future upgrades frustrating.",
+    "verified_purchase": false,
+    "helpful_votes": 4,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_laptop_006_1",
+    "product_id": "demo_laptop_006",
+    "rating": 5,
+    "title": "Excellent Acer Swift Go 14 OLED performance",
+    "text": "The Acer Swift Go 14 OLED handles coding, multitasking, and daily productivity tasks smoothly. Battery endurance and display clarity are standout features.",
+    "verified_purchase": true,
+    "helpful_votes": 15,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_laptop_006_2",
+    "product_id": "demo_laptop_006",
+    "rating": 3,
+    "title": "Good value, but has thermal and noise trade-offs",
+    "text": "I enjoy using the Acer Swift Go 14 OLED, but under sustained high workloads fan noise increases and keyboard deck gets warm.",
+    "verified_purchase": true,
+    "helpful_votes": 8,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_laptop_006_3",
+    "product_id": "demo_laptop_006",
+    "rating": 2,
+    "title": "Port selection and upgrade limitations",
+    "text": "The Acer Swift Go 14 OLED is fine for basic tasks, but limited port options or soldered RAM make future upgrades frustrating.",
+    "verified_purchase": false,
+    "helpful_votes": 4,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_laptop_007_1",
+    "product_id": "demo_laptop_007",
+    "rating": 5,
+    "title": "Excellent ASUS Vivobook 16X K3605 performance",
+    "text": "The ASUS Vivobook 16X K3605 handles coding, multitasking, and daily productivity tasks smoothly. Battery endurance and display clarity are standout features.",
+    "verified_purchase": true,
+    "helpful_votes": 15,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_laptop_007_2",
+    "product_id": "demo_laptop_007",
+    "rating": 3,
+    "title": "Good value, but has thermal and noise trade-offs",
+    "text": "I enjoy using the ASUS Vivobook 16X K3605, but under sustained high workloads fan noise increases and keyboard deck gets warm.",
+    "verified_purchase": true,
+    "helpful_votes": 8,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_laptop_007_3",
+    "product_id": "demo_laptop_007",
+    "rating": 2,
+    "title": "Port selection and upgrade limitations",
+    "text": "The ASUS Vivobook 16X K3605 is fine for basic tasks, but limited port options or soldered RAM make future upgrades frustrating.",
+    "verified_purchase": false,
+    "helpful_votes": 4,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_laptop_008_1",
+    "product_id": "demo_laptop_008",
+    "rating": 5,
+    "title": "Excellent Apple MacBook Pro 14 M3 performance",
+    "text": "The Apple MacBook Pro 14 M3 handles coding, multitasking, and daily productivity tasks smoothly. Battery endurance and display clarity are standout features.",
+    "verified_purchase": true,
+    "helpful_votes": 15,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_laptop_008_2",
+    "product_id": "demo_laptop_008",
+    "rating": 3,
+    "title": "Good value, but has thermal and noise trade-offs",
+    "text": "I enjoy using the Apple MacBook Pro 14 M3, but under sustained high workloads fan noise increases and keyboard deck gets warm.",
+    "verified_purchase": true,
+    "helpful_votes": 8,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_laptop_008_3",
+    "product_id": "demo_laptop_008",
+    "rating": 2,
+    "title": "Port selection and upgrade limitations",
+    "text": "The Apple MacBook Pro 14 M3 is fine for basic tasks, but limited port options or soldered RAM make future upgrades frustrating.",
+    "verified_purchase": false,
+    "helpful_votes": 4,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_laptop_009_1",
+    "product_id": "demo_laptop_009",
+    "rating": 5,
+    "title": "Excellent HP Pavilion Aero 13 performance",
+    "text": "The HP Pavilion Aero 13 handles coding, multitasking, and daily productivity tasks smoothly. Battery endurance and display clarity are standout features.",
+    "verified_purchase": true,
+    "helpful_votes": 15,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_laptop_009_2",
+    "product_id": "demo_laptop_009",
+    "rating": 3,
+    "title": "Good value, but has thermal and noise trade-offs",
+    "text": "I enjoy using the HP Pavilion Aero 13, but under sustained high workloads fan noise increases and keyboard deck gets warm.",
+    "verified_purchase": true,
+    "helpful_votes": 8,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_laptop_009_3",
+    "product_id": "demo_laptop_009",
+    "rating": 2,
+    "title": "Port selection and upgrade limitations",
+    "text": "The HP Pavilion Aero 13 is fine for basic tasks, but limited port options or soldered RAM make future upgrades frustrating.",
+    "verified_purchase": false,
+    "helpful_votes": 4,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_laptop_010_1",
+    "product_id": "demo_laptop_010",
+    "rating": 5,
+    "title": "Excellent Lenovo ThinkPad E14 Gen 5 performance",
+    "text": "The Lenovo ThinkPad E14 Gen 5 handles coding, multitasking, and daily productivity tasks smoothly. Battery endurance and display clarity are standout features.",
+    "verified_purchase": true,
+    "helpful_votes": 15,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_laptop_010_2",
+    "product_id": "demo_laptop_010",
+    "rating": 3,
+    "title": "Good value, but has thermal and noise trade-offs",
+    "text": "I enjoy using the Lenovo ThinkPad E14 Gen 5, but under sustained high workloads fan noise increases and keyboard deck gets warm.",
+    "verified_purchase": true,
+    "helpful_votes": 8,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_laptop_010_3",
+    "product_id": "demo_laptop_010",
+    "rating": 2,
+    "title": "Port selection and upgrade limitations",
+    "text": "The Lenovo ThinkPad E14 Gen 5 is fine for basic tasks, but limited port options or soldered RAM make future upgrades frustrating.",
+    "verified_purchase": false,
+    "helpful_votes": 4,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_smartphone_001_1",
+    "product_id": "demo_smartphone_001",
+    "rating": 5,
+    "title": "Stunning camera and smooth display on Samsung Galaxy S24 5G",
+    "text": "Daylight photography, 4K video recording, and screen brightness on the Samsung Galaxy S24 5G are fantastic for social media and streaming.",
+    "verified_purchase": true,
+    "helpful_votes": 18,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_smartphone_001_2",
+    "product_id": "demo_smartphone_001",
+    "rating": 3,
+    "title": "Great daily phone, but battery/charging has minor drawbacks",
+    "text": "The Samsung Galaxy S24 5G screen is crisp, but battery drain on 5G cellular data is noticeable during heavy navigation and gaming.",
+    "verified_purchase": true,
+    "helpful_votes": 9,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_smartphone_001_3",
+    "product_id": "demo_smartphone_001",
+    "rating": 2,
+    "title": "Preinstalled bloatware and low-light camera noise",
+    "text": "Initial setup of Samsung Galaxy S24 5G includes unwanted apps. Low-light photos also lose fine texture details in night shots.",
+    "verified_purchase": false,
+    "helpful_votes": 3,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_smartphone_002_1",
+    "product_id": "demo_smartphone_002",
+    "rating": 5,
+    "title": "Stunning camera and smooth display on iPhone 15 (128GB)",
+    "text": "Daylight photography, 4K video recording, and screen brightness on the iPhone 15 (128GB) are fantastic for social media and streaming.",
+    "verified_purchase": true,
+    "helpful_votes": 18,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_smartphone_002_2",
+    "product_id": "demo_smartphone_002",
+    "rating": 3,
+    "title": "Great daily phone, but battery/charging has minor drawbacks",
+    "text": "The iPhone 15 (128GB) screen is crisp, but battery drain on 5G cellular data is noticeable during heavy navigation and gaming.",
+    "verified_purchase": true,
+    "helpful_votes": 9,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_smartphone_002_3",
+    "product_id": "demo_smartphone_002",
+    "rating": 2,
+    "title": "Preinstalled bloatware and low-light camera noise",
+    "text": "Initial setup of iPhone 15 (128GB) includes unwanted apps. Low-light photos also lose fine texture details in night shots.",
+    "verified_purchase": false,
+    "helpful_votes": 3,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_smartphone_003_1",
+    "product_id": "demo_smartphone_003",
+    "rating": 5,
+    "title": "Stunning camera and smooth display on OnePlus 12 5G",
+    "text": "Daylight photography, 4K video recording, and screen brightness on the OnePlus 12 5G are fantastic for social media and streaming.",
+    "verified_purchase": true,
+    "helpful_votes": 18,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_smartphone_003_2",
+    "product_id": "demo_smartphone_003",
+    "rating": 3,
+    "title": "Great daily phone, but battery/charging has minor drawbacks",
+    "text": "The OnePlus 12 5G screen is crisp, but battery drain on 5G cellular data is noticeable during heavy navigation and gaming.",
+    "verified_purchase": true,
+    "helpful_votes": 9,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_smartphone_003_3",
+    "product_id": "demo_smartphone_003",
+    "rating": 2,
+    "title": "Preinstalled bloatware and low-light camera noise",
+    "text": "Initial setup of OnePlus 12 5G includes unwanted apps. Low-light photos also lose fine texture details in night shots.",
+    "verified_purchase": false,
+    "helpful_votes": 3,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_smartphone_004_1",
+    "product_id": "demo_smartphone_004",
+    "rating": 5,
+    "title": "Stunning camera and smooth display on Google Pixel 8a 5G",
+    "text": "Daylight photography, 4K video recording, and screen brightness on the Google Pixel 8a 5G are fantastic for social media and streaming.",
+    "verified_purchase": true,
+    "helpful_votes": 18,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_smartphone_004_2",
+    "product_id": "demo_smartphone_004",
+    "rating": 3,
+    "title": "Great daily phone, but battery/charging has minor drawbacks",
+    "text": "The Google Pixel 8a 5G screen is crisp, but battery drain on 5G cellular data is noticeable during heavy navigation and gaming.",
+    "verified_purchase": true,
+    "helpful_votes": 9,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_smartphone_004_3",
+    "product_id": "demo_smartphone_004",
+    "rating": 2,
+    "title": "Preinstalled bloatware and low-light camera noise",
+    "text": "Initial setup of Google Pixel 8a 5G includes unwanted apps. Low-light photos also lose fine texture details in night shots.",
+    "verified_purchase": false,
+    "helpful_votes": 3,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_smartphone_005_1",
+    "product_id": "demo_smartphone_005",
+    "rating": 5,
+    "title": "Stunning camera and smooth display on iQOO Neo 9 Pro 5G",
+    "text": "Daylight photography, 4K video recording, and screen brightness on the iQOO Neo 9 Pro 5G are fantastic for social media and streaming.",
+    "verified_purchase": true,
+    "helpful_votes": 18,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_smartphone_005_2",
+    "product_id": "demo_smartphone_005",
+    "rating": 3,
+    "title": "Great daily phone, but battery/charging has minor drawbacks",
+    "text": "The iQOO Neo 9 Pro 5G screen is crisp, but battery drain on 5G cellular data is noticeable during heavy navigation and gaming.",
+    "verified_purchase": true,
+    "helpful_votes": 9,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_smartphone_005_3",
+    "product_id": "demo_smartphone_005",
+    "rating": 2,
+    "title": "Preinstalled bloatware and low-light camera noise",
+    "text": "Initial setup of iQOO Neo 9 Pro 5G includes unwanted apps. Low-light photos also lose fine texture details in night shots.",
+    "verified_purchase": false,
+    "helpful_votes": 3,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_smartphone_006_1",
+    "product_id": "demo_smartphone_006",
+    "rating": 5,
+    "title": "Stunning camera and smooth display on Redmi Note 13 Pro+ 5G",
+    "text": "Daylight photography, 4K video recording, and screen brightness on the Redmi Note 13 Pro+ 5G are fantastic for social media and streaming.",
+    "verified_purchase": true,
+    "helpful_votes": 18,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_smartphone_006_2",
+    "product_id": "demo_smartphone_006",
+    "rating": 3,
+    "title": "Great daily phone, but battery/charging has minor drawbacks",
+    "text": "The Redmi Note 13 Pro+ 5G screen is crisp, but battery drain on 5G cellular data is noticeable during heavy navigation and gaming.",
+    "verified_purchase": true,
+    "helpful_votes": 9,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_smartphone_006_3",
+    "product_id": "demo_smartphone_006",
+    "rating": 2,
+    "title": "Preinstalled bloatware and low-light camera noise",
+    "text": "Initial setup of Redmi Note 13 Pro+ 5G includes unwanted apps. Low-light photos also lose fine texture details in night shots.",
+    "verified_purchase": false,
+    "helpful_votes": 3,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_smartphone_007_1",
+    "product_id": "demo_smartphone_007",
+    "rating": 5,
+    "title": "Stunning camera and smooth display on Realme 12 Pro+ 5G",
+    "text": "Daylight photography, 4K video recording, and screen brightness on the Realme 12 Pro+ 5G are fantastic for social media and streaming.",
+    "verified_purchase": true,
+    "helpful_votes": 18,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_smartphone_007_2",
+    "product_id": "demo_smartphone_007",
+    "rating": 3,
+    "title": "Great daily phone, but battery/charging has minor drawbacks",
+    "text": "The Realme 12 Pro+ 5G screen is crisp, but battery drain on 5G cellular data is noticeable during heavy navigation and gaming.",
+    "verified_purchase": true,
+    "helpful_votes": 9,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_smartphone_007_3",
+    "product_id": "demo_smartphone_007",
+    "rating": 2,
+    "title": "Preinstalled bloatware and low-light camera noise",
+    "text": "Initial setup of Realme 12 Pro+ 5G includes unwanted apps. Low-light photos also lose fine texture details in night shots.",
+    "verified_purchase": false,
+    "helpful_votes": 3,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_smartphone_008_1",
+    "product_id": "demo_smartphone_008",
+    "rating": 5,
+    "title": "Stunning camera and smooth display on Motorola Edge 50 Fusion",
+    "text": "Daylight photography, 4K video recording, and screen brightness on the Motorola Edge 50 Fusion are fantastic for social media and streaming.",
+    "verified_purchase": true,
+    "helpful_votes": 18,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_smartphone_008_2",
+    "product_id": "demo_smartphone_008",
+    "rating": 3,
+    "title": "Great daily phone, but battery/charging has minor drawbacks",
+    "text": "The Motorola Edge 50 Fusion screen is crisp, but battery drain on 5G cellular data is noticeable during heavy navigation and gaming.",
+    "verified_purchase": true,
+    "helpful_votes": 9,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_smartphone_008_3",
+    "product_id": "demo_smartphone_008",
+    "rating": 2,
+    "title": "Preinstalled bloatware and low-light camera noise",
+    "text": "Initial setup of Motorola Edge 50 Fusion includes unwanted apps. Low-light photos also lose fine texture details in night shots.",
+    "verified_purchase": false,
+    "helpful_votes": 3,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_smartphone_009_1",
+    "product_id": "demo_smartphone_009",
+    "rating": 5,
+    "title": "Stunning camera and smooth display on Poco X6 Pro 5G",
+    "text": "Daylight photography, 4K video recording, and screen brightness on the Poco X6 Pro 5G are fantastic for social media and streaming.",
+    "verified_purchase": true,
+    "helpful_votes": 18,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_smartphone_009_2",
+    "product_id": "demo_smartphone_009",
+    "rating": 3,
+    "title": "Great daily phone, but battery/charging has minor drawbacks",
+    "text": "The Poco X6 Pro 5G screen is crisp, but battery drain on 5G cellular data is noticeable during heavy navigation and gaming.",
+    "verified_purchase": true,
+    "helpful_votes": 9,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_smartphone_009_3",
+    "product_id": "demo_smartphone_009",
+    "rating": 2,
+    "title": "Preinstalled bloatware and low-light camera noise",
+    "text": "Initial setup of Poco X6 Pro 5G includes unwanted apps. Low-light photos also lose fine texture details in night shots.",
+    "verified_purchase": false,
+    "helpful_votes": 3,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_smartphone_010_1",
+    "product_id": "demo_smartphone_010",
+    "rating": 5,
+    "title": "Stunning camera and smooth display on Nothing Phone (2a) 5G",
+    "text": "Daylight photography, 4K video recording, and screen brightness on the Nothing Phone (2a) 5G are fantastic for social media and streaming.",
+    "verified_purchase": true,
+    "helpful_votes": 18,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_smartphone_010_2",
+    "product_id": "demo_smartphone_010",
+    "rating": 3,
+    "title": "Great daily phone, but battery/charging has minor drawbacks",
+    "text": "The Nothing Phone (2a) 5G screen is crisp, but battery drain on 5G cellular data is noticeable during heavy navigation and gaming.",
+    "verified_purchase": true,
+    "helpful_votes": 9,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_smartphone_010_3",
+    "product_id": "demo_smartphone_010",
+    "rating": 2,
+    "title": "Preinstalled bloatware and low-light camera noise",
+    "text": "Initial setup of Nothing Phone (2a) 5G includes unwanted apps. Low-light photos also lose fine texture details in night shots.",
+    "verified_purchase": false,
+    "helpful_votes": 3,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_headphone_001_1",
+    "product_id": "demo_headphone_001",
+    "rating": 5,
+    "title": "Superb sound clarity and noise isolation on Sony WH-1000XM5",
+    "text": "The active noise cancellation and sound signature on the Sony WH-1000XM5 isolate ambient ambient chatter during work or travel.",
+    "verified_purchase": true,
+    "helpful_votes": 20,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_headphone_001_2",
+    "product_id": "demo_headphone_001",
+    "rating": 3,
+    "title": "Good audio, ear cushion pressure takes time to adjust",
+    "text": "The audio quality of Sony WH-1000XM5 is clear, but ear cups feel snug during long listening sessions beyond 2 hours.",
+    "verified_purchase": true,
+    "helpful_votes": 7,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_headphone_001_3",
+    "product_id": "demo_headphone_001",
+    "rating": 2,
+    "title": "Companion app glitches and plastic feel",
+    "text": "While sound output is decent on Sony WH-1000XM5, the companion app sometimes drops Bluetooth pairing and body feels basic.",
+    "verified_purchase": false,
+    "helpful_votes": 5,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_headphone_002_1",
+    "product_id": "demo_headphone_002",
+    "rating": 5,
+    "title": "Superb sound clarity and noise isolation on Bose QuietComfort Ultra Headphones",
+    "text": "The active noise cancellation and sound signature on the Bose QuietComfort Ultra Headphones isolate ambient ambient chatter during work or travel.",
+    "verified_purchase": true,
+    "helpful_votes": 20,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_headphone_002_2",
+    "product_id": "demo_headphone_002",
+    "rating": 3,
+    "title": "Good audio, ear cushion pressure takes time to adjust",
+    "text": "The audio quality of Bose QuietComfort Ultra Headphones is clear, but ear cups feel snug during long listening sessions beyond 2 hours.",
+    "verified_purchase": true,
+    "helpful_votes": 7,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_headphone_002_3",
+    "product_id": "demo_headphone_002",
+    "rating": 2,
+    "title": "Companion app glitches and plastic feel",
+    "text": "While sound output is decent on Bose QuietComfort Ultra Headphones, the companion app sometimes drops Bluetooth pairing and body feels basic.",
+    "verified_purchase": false,
+    "helpful_votes": 5,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_headphone_003_1",
+    "product_id": "demo_headphone_003",
+    "rating": 5,
+    "title": "Superb sound clarity and noise isolation on Sennheiser Momentum 4 Wireless",
+    "text": "The active noise cancellation and sound signature on the Sennheiser Momentum 4 Wireless isolate ambient ambient chatter during work or travel.",
+    "verified_purchase": true,
+    "helpful_votes": 20,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_headphone_003_2",
+    "product_id": "demo_headphone_003",
+    "rating": 3,
+    "title": "Good audio, ear cushion pressure takes time to adjust",
+    "text": "The audio quality of Sennheiser Momentum 4 Wireless is clear, but ear cups feel snug during long listening sessions beyond 2 hours.",
+    "verified_purchase": true,
+    "helpful_votes": 7,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_headphone_003_3",
+    "product_id": "demo_headphone_003",
+    "rating": 2,
+    "title": "Companion app glitches and plastic feel",
+    "text": "While sound output is decent on Sennheiser Momentum 4 Wireless, the companion app sometimes drops Bluetooth pairing and body feels basic.",
+    "verified_purchase": false,
+    "helpful_votes": 5,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_headphone_004_1",
+    "product_id": "demo_headphone_004",
+    "rating": 5,
+    "title": "Superb sound clarity and noise isolation on Sony WF-1000XM5 TWS",
+    "text": "The active noise cancellation and sound signature on the Sony WF-1000XM5 TWS isolate ambient ambient chatter during work or travel.",
+    "verified_purchase": true,
+    "helpful_votes": 20,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_headphone_004_2",
+    "product_id": "demo_headphone_004",
+    "rating": 3,
+    "title": "Good audio, ear cushion pressure takes time to adjust",
+    "text": "The audio quality of Sony WF-1000XM5 TWS is clear, but ear cups feel snug during long listening sessions beyond 2 hours.",
+    "verified_purchase": true,
+    "helpful_votes": 7,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_headphone_004_3",
+    "product_id": "demo_headphone_004",
+    "rating": 2,
+    "title": "Companion app glitches and plastic feel",
+    "text": "While sound output is decent on Sony WF-1000XM5 TWS, the companion app sometimes drops Bluetooth pairing and body feels basic.",
+    "verified_purchase": false,
+    "helpful_votes": 5,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_headphone_005_1",
+    "product_id": "demo_headphone_005",
+    "rating": 5,
+    "title": "Superb sound clarity and noise isolation on Apple AirPods Pro (2nd Gen, USB-C)",
+    "text": "The active noise cancellation and sound signature on the Apple AirPods Pro (2nd Gen, USB-C) isolate ambient ambient chatter during work or travel.",
+    "verified_purchase": true,
+    "helpful_votes": 20,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_headphone_005_2",
+    "product_id": "demo_headphone_005",
+    "rating": 3,
+    "title": "Good audio, ear cushion pressure takes time to adjust",
+    "text": "The audio quality of Apple AirPods Pro (2nd Gen, USB-C) is clear, but ear cups feel snug during long listening sessions beyond 2 hours.",
+    "verified_purchase": true,
+    "helpful_votes": 7,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_headphone_005_3",
+    "product_id": "demo_headphone_005",
+    "rating": 2,
+    "title": "Companion app glitches and plastic feel",
+    "text": "While sound output is decent on Apple AirPods Pro (2nd Gen, USB-C), the companion app sometimes drops Bluetooth pairing and body feels basic.",
+    "verified_purchase": false,
+    "helpful_votes": 5,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_headphone_006_1",
+    "product_id": "demo_headphone_006",
+    "rating": 5,
+    "title": "Superb sound clarity and noise isolation on Audio-Technica ATH-M50xBT2",
+    "text": "The active noise cancellation and sound signature on the Audio-Technica ATH-M50xBT2 isolate ambient ambient chatter during work or travel.",
+    "verified_purchase": true,
+    "helpful_votes": 20,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_headphone_006_2",
+    "product_id": "demo_headphone_006",
+    "rating": 3,
+    "title": "Good audio, ear cushion pressure takes time to adjust",
+    "text": "The audio quality of Audio-Technica ATH-M50xBT2 is clear, but ear cups feel snug during long listening sessions beyond 2 hours.",
+    "verified_purchase": true,
+    "helpful_votes": 7,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_headphone_006_3",
+    "product_id": "demo_headphone_006",
+    "rating": 2,
+    "title": "Companion app glitches and plastic feel",
+    "text": "While sound output is decent on Audio-Technica ATH-M50xBT2, the companion app sometimes drops Bluetooth pairing and body feels basic.",
+    "verified_purchase": false,
+    "helpful_votes": 5,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_headphone_007_1",
+    "product_id": "demo_headphone_007",
+    "rating": 5,
+    "title": "Superb sound clarity and noise isolation on JBL Live 770NC",
+    "text": "The active noise cancellation and sound signature on the JBL Live 770NC isolate ambient ambient chatter during work or travel.",
+    "verified_purchase": true,
+    "helpful_votes": 20,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_headphone_007_2",
+    "product_id": "demo_headphone_007",
+    "rating": 3,
+    "title": "Good audio, ear cushion pressure takes time to adjust",
+    "text": "The audio quality of JBL Live 770NC is clear, but ear cups feel snug during long listening sessions beyond 2 hours.",
+    "verified_purchase": true,
+    "helpful_votes": 7,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_headphone_007_3",
+    "product_id": "demo_headphone_007",
+    "rating": 2,
+    "title": "Companion app glitches and plastic feel",
+    "text": "While sound output is decent on JBL Live 770NC, the companion app sometimes drops Bluetooth pairing and body feels basic.",
+    "verified_purchase": false,
+    "helpful_votes": 5,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_headphone_008_1",
+    "product_id": "demo_headphone_008",
+    "rating": 5,
+    "title": "Superb sound clarity and noise isolation on Realme Buds Air 6 Pro TWS",
+    "text": "The active noise cancellation and sound signature on the Realme Buds Air 6 Pro TWS isolate ambient ambient chatter during work or travel.",
+    "verified_purchase": true,
+    "helpful_votes": 20,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_headphone_008_2",
+    "product_id": "demo_headphone_008",
+    "rating": 3,
+    "title": "Good audio, ear cushion pressure takes time to adjust",
+    "text": "The audio quality of Realme Buds Air 6 Pro TWS is clear, but ear cups feel snug during long listening sessions beyond 2 hours.",
+    "verified_purchase": true,
+    "helpful_votes": 7,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_headphone_008_3",
+    "product_id": "demo_headphone_008",
+    "rating": 2,
+    "title": "Companion app glitches and plastic feel",
+    "text": "While sound output is decent on Realme Buds Air 6 Pro TWS, the companion app sometimes drops Bluetooth pairing and body feels basic.",
+    "verified_purchase": false,
+    "helpful_votes": 5,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_headphone_009_1",
+    "product_id": "demo_headphone_009",
+    "rating": 5,
+    "title": "Superb sound clarity and noise isolation on OnePlus Buds 3 TWS",
+    "text": "The active noise cancellation and sound signature on the OnePlus Buds 3 TWS isolate ambient ambient chatter during work or travel.",
+    "verified_purchase": true,
+    "helpful_votes": 20,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_headphone_009_2",
+    "product_id": "demo_headphone_009",
+    "rating": 3,
+    "title": "Good audio, ear cushion pressure takes time to adjust",
+    "text": "The audio quality of OnePlus Buds 3 TWS is clear, but ear cups feel snug during long listening sessions beyond 2 hours.",
+    "verified_purchase": true,
+    "helpful_votes": 7,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_headphone_009_3",
+    "product_id": "demo_headphone_009",
+    "rating": 2,
+    "title": "Companion app glitches and plastic feel",
+    "text": "While sound output is decent on OnePlus Buds 3 TWS, the companion app sometimes drops Bluetooth pairing and body feels basic.",
+    "verified_purchase": false,
+    "helpful_votes": 5,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_headphone_010_1",
+    "product_id": "demo_headphone_010",
+    "rating": 5,
+    "title": "Superb sound clarity and noise isolation on Sony WH-CH720N Wireless",
+    "text": "The active noise cancellation and sound signature on the Sony WH-CH720N Wireless isolate ambient ambient chatter during work or travel.",
+    "verified_purchase": true,
+    "helpful_votes": 20,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_headphone_010_2",
+    "product_id": "demo_headphone_010",
+    "rating": 3,
+    "title": "Good audio, ear cushion pressure takes time to adjust",
+    "text": "The audio quality of Sony WH-CH720N Wireless is clear, but ear cups feel snug during long listening sessions beyond 2 hours.",
+    "verified_purchase": true,
+    "helpful_votes": 7,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_headphone_010_3",
+    "product_id": "demo_headphone_010",
+    "rating": 2,
+    "title": "Companion app glitches and plastic feel",
+    "text": "While sound output is decent on Sony WH-CH720N Wireless, the companion app sometimes drops Bluetooth pairing and body feels basic.",
+    "verified_purchase": false,
+    "helpful_votes": 5,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_shoes_001_1",
+    "product_id": "demo_shoes_001",
+    "rating": 5,
+    "title": "Super comfortable daily sneakers with great heel cushioning",
+    "text": "The Nike Air Max 270 has fantastic heel air cushion support. Great for long walks and all-day casual wear.",
+    "verified_purchase": true,
+    "helpful_votes": 14,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_shoes_002_1",
+    "product_id": "demo_shoes_002",
+    "rating": 5,
+    "title": "Incredible value running shoe with top-notch grip",
+    "text": "Puma Velocity Nitro 3 is one of the best daily trainers under 5000. PUMAGRIP is phenomenal on wet roads.",
+    "verified_purchase": true,
+    "helpful_votes": 12,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_shoes_003_1",
+    "product_id": "demo_shoes_003",
+    "rating": 5,
+    "title": "Light Boost cushioning makes long runs effortless",
+    "text": "Adidas Ultraboost Light is lighter than previous generations with the same signature bounce. The Continental outsole has excellent traction.",
+    "verified_purchase": true,
+    "helpful_votes": 16,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_clothing_001_1",
+    "product_id": "demo_clothing_001",
+    "rating": 5,
+    "title": "Perfect slim fit and durable denim",
+    "text": "Levi's 511 has the right balance of slim tailoring and stretch comfort. High quality ring-spun denim that lasts.",
+    "verified_purchase": true,
+    "helpful_votes": 10,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_clothing_002_1",
+    "product_id": "demo_clothing_002",
+    "rating": 5,
+    "title": "Silky soft 100% Supima cotton",
+    "text": "Uniqlo Supima t-shirt feels incredibly smooth against the skin. Holds its collar shape even after several washes.",
+    "verified_purchase": true,
+    "helpful_votes": 15,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_clothing_003_1",
+    "product_id": "demo_clothing_003",
+    "rating": 4,
+    "title": "Smart pique knit polo for office wear",
+    "text": "The Allen Solly polo looks crisp and holds its collar shape well. Great value for daily office casual rotation.",
+    "verified_purchase": true,
+    "helpful_votes": 9,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_skincare_001_1",
+    "product_id": "demo_skincare_001",
+    "rating": 5,
+    "title": "Repaired my dry skin barrier in one week",
+    "text": "CeraVe Moisturizing Cream with ceramides and hyaluronic acid is non-greasy yet intensely nourishing. Excellent for sensitive dry skin.",
+    "verified_purchase": true,
+    "helpful_votes": 20,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_skincare_002_1",
+    "product_id": "demo_skincare_002",
+    "rating": 5,
+    "title": "Gentle daily hydration under 1000 budget",
+    "text": "Cetaphil Daily Facial Moisturizer absorbs fast without leaving any sticky residue. Doesn't cause breakouts or irritation.",
+    "verified_purchase": true,
+    "helpful_votes": 11,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_skincare_003_1",
+    "product_id": "demo_skincare_003",
+    "rating": 5,
+    "title": "Controls excess shine and visibly clears pores",
+    "text": "The Ordinary Niacinamide 10% + Zinc 1% made a noticeable difference in oiliness and skin texture within two weeks. Fragrance-free and gentle.",
+    "verified_purchase": true,
+    "helpful_votes": 18,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_furniture_001_1",
+    "product_id": "demo_furniture_001",
+    "rating": 5,
+    "title": "Sturdy study setup with comfortable lumbar support",
+    "text": "Green Soul table and chair combo solved my back pain during long study sessions. The breathable mesh keeps cool and desk is rock solid.",
+    "verified_purchase": true,
+    "helpful_votes": 14,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_furniture_002_1",
+    "product_id": "demo_furniture_002",
+    "rating": 5,
+    "title": "Best ergonomic office chair in this budget",
+    "text": "Wakefit ErgoTech chair has great 2D lumbar adjustability and multi-lock recline. Working 8 hours from home is so much easier now.",
+    "verified_purchase": true,
+    "helpful_votes": 16,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_furniture_003_1",
+    "product_id": "demo_furniture_003",
+    "rating": 5,
+    "title": "Clean minimalist desk, effortless assembly",
+    "text": "IKEA Linnmon / Adils is simple, clean, and gives plenty of surface area for a monitor and laptop. Very easy to assemble with screw-in legs.",
+    "verified_purchase": true,
+    "helpful_votes": 13,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_books_001_1",
+    "product_id": "demo_books_001",
+    "rating": 5,
+    "title": "Life-changing practical frameworks",
+    "text": "Atomic Habits by James Clear breaks down habit formation into clear, actionable steps. The 2-minute rule and habit stacking really work.",
+    "verified_purchase": true,
+    "helpful_votes": 25,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_books_002_1",
+    "product_id": "demo_books_002",
+    "rating": 5,
+    "title": "Brilliant insights on human behavior with money",
+    "text": "Morgan Housel explains that doing well with money has a little to do with how smart you are and a lot to do with how you behave. Highly recommended read.",
+    "verified_purchase": true,
+    "helpful_votes": 21,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_books_003_1",
+    "product_id": "demo_books_003",
+    "rating": 5,
+    "title": "Essential guide for knowledge workers in a distracted world",
+    "text": "Deep Work by Cal Newport provided the structure I needed to eliminate digital distractions and double my focus on demanding projects.",
+    "verified_purchase": true,
+    "helpful_votes": 17,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_groceries_001_1",
+    "product_id": "demo_groceries_001",
+    "rating": 5,
+    "title": "100% pure roasted peanuts, no sugar or oil",
+    "text": "Pintola All-Natural peanut butter is honest and healthy. Just roasted peanuts with 30g protein. The crunchy texture is delicious on toast.",
+    "verified_purchase": true,
+    "helpful_votes": 19,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_groceries_002_1",
+    "product_id": "demo_groceries_002",
+    "rating": 5,
+    "title": "Authentic aroma and unpolished wholesome dal",
+    "text": "Tata Sampann organic unpolished toor dal cooks into a rich, creamy tadka dal. You can taste the purity compared to chemically polished dal.",
+    "verified_purchase": true,
+    "helpful_votes": 12,
+    "source": "synthetic_demo"
+  },
+  {
+    "review_id": "rev_demo_groceries_003_1",
+    "product_id": "demo_groceries_003",
+    "rating": 5,
+    "title": "Smooth green tea with zero harsh bitterness",
+    "text": "Twinings green tea is mild, fragrant, and soothing. The foil envelopes keep every tea bag completely fresh. Perfect morning antioxidant cup.",
+    "verified_purchase": true,
+    "helpful_votes": 15,
+    "source": "synthetic_demo"
+  }
+]

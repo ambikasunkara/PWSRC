@@ -1,0 +1,1438 @@
+[
+  {
+    "product_id": "demo_laptop_001",
+    "name": "MacBook Air M2 (13.6-inch)",
+    "brand": "Apple",
+    "category": "laptop",
+    "price_inr": 94900,
+    "rating": 4.7,
+    "review_count": 3,
+    "description": "Ultra-slim lightweight laptop with Apple M2 chip, Liquid Retina display, and silent fanless operation.",
+    "specifications": {
+      "processor": "Apple M2 (8-core CPU, 8-core GPU)",
+      "ram_gb": 8,
+      "storage_gb": 256,
+      "storage_type": "SSD",
+      "display_size": 13.6,
+      "display_resolution": "2560x1664 Liquid Retina",
+      "battery_hours": 18.0,
+      "weight_kg": 1.24,
+      "gpu": "Integrated 8-core GPU",
+      "operating_system": "macOS"
+    },
+    "pros": [
+      "Extremely lightweight and portable",
+      "Phenomenal 18-hour battery life",
+      "Silent fanless design",
+      "Bright crisp display"
+    ],
+    "cons": [
+      "Base model comes with only 8GB RAM",
+      "Expensive storage upgrade options",
+      "Limited to two Thunderbolt/USB-C ports"
+    ],
+    "source": "synthetic_demo",
+    "source_id": "demo_laptop_001"
+  },
+  {
+    "product_id": "demo_laptop_002",
+    "name": "ASUS ROG Zephyrus G14 (2024)",
+    "brand": "ASUS",
+    "category": "laptop",
+    "price_inr": 149990,
+    "rating": 4.6,
+    "review_count": 3,
+    "description": "Compact 14-inch premium gaming laptop with 3K 120Hz OLED display and RTX 4060 graphics.",
+    "specifications": {
+      "processor": "AMD Ryzen 9 8945HS",
+      "ram_gb": 16,
+      "storage_gb": 1024,
+      "storage_type": "NVMe Gen4 SSD",
+      "display_size": 14.0,
+      "display_resolution": "2880x1800 3K OLED 120Hz",
+      "battery_hours": 8.5,
+      "weight_kg": 1.5,
+      "gpu": "NVIDIA GeForce RTX 4060 8GB",
+      "operating_system": "Windows 11 Home"
+    },
+    "pros": [
+      "Vibrant 3K 120Hz OLED display",
+      "High 3D gaming performance in a 1.5kg chassis",
+      "Sleek aluminum unibody build"
+    ],
+    "cons": [
+      "RAM is soldered and non-upgradable",
+      "Gets hot near keyboard under sustained heavy gaming load",
+      "Higher price tag"
+    ],
+    "source": "synthetic_demo",
+    "source_id": "demo_laptop_002"
+  },
+  {
+    "product_id": "demo_laptop_003",
+    "name": "Lenovo IdeaPad Slim 3 15IAH8",
+    "brand": "Lenovo",
+    "category": "laptop",
+    "price_inr": 42990,
+    "rating": 4.1,
+    "review_count": 3,
+    "description": "Affordable everyday student and coding laptop with 12th Gen Intel Core i5 processor and 16GB RAM.",
+    "specifications": {
+      "processor": "Intel Core i5-12450H",
+      "ram_gb": 16,
+      "storage_gb": 512,
+      "storage_type": "NVMe SSD",
+      "display_size": 15.6,
+      "display_resolution": "1920x1080 Full HD IPS",
+      "battery_hours": 6.0,
+      "weight_kg": 1.62,
+      "gpu": "Intel UHD Graphics",
+      "operating_system": "Windows 11 Home"
+    },
+    "pros": [
+      "Includes 16GB RAM out of the box under 45k",
+      "Fast H-series processor performance",
+      "Full-size keyboard with numpad"
+    ],
+    "cons": [
+      "Display color accuracy is basic (45% NTSC)",
+      "Battery life is average around 5-6 hours",
+      "Plastic body feel"
+    ],
+    "source": "synthetic_demo",
+    "source_id": "demo_laptop_003"
+  },
+  {
+    "product_id": "demo_laptop_004",
+    "name": "Dell XPS 13 9340",
+    "brand": "Dell",
+    "category": "laptop",
+    "price_inr": 135990,
+    "rating": 4.3,
+    "review_count": 3,
+    "description": "Ultra-premium ultraportability with Intel Core Ultra 7 processor and edge-to-edge glass palm rest design.",
+    "specifications": {
+      "processor": "Intel Core Ultra 7 155H",
+      "ram_gb": 16,
+      "storage_gb": 512,
+      "storage_type": "NVMe SSD",
+      "display_size": 13.4,
+      "display_resolution": "1920x1200 FHD+ 120Hz",
+      "battery_hours": 11.0,
+      "weight_kg": 1.19,
+      "gpu": "Intel Arc Graphics",
+      "operating_system": "Windows 11 Home"
+    },
+    "pros": [
+      "Stunning CNC machined aluminum design",
+      "Ultra-light 1.19kg chassis",
+      "Good battery life with Intel Core Ultra power efficiency"
+    ],
+    "cons": [
+      "Capacitive touch function row takes time to get used to",
+      "Only two Thunderbolt ports, no headphone jack",
+      "Expensive"
+    ],
+    "source": "synthetic_demo",
+    "source_id": "demo_laptop_004"
+  },
+  {
+    "product_id": "demo_laptop_005",
+    "name": "HP Victus 15-fa1093TX",
+    "brand": "HP",
+    "category": "laptop",
+    "price_inr": 58990,
+    "rating": 4.2,
+    "review_count": 3,
+    "description": "Budget gaming laptop featuring NVIDIA RTX 2050 graphics and 144Hz high refresh rate screen.",
+    "specifications": {
+      "processor": "Intel Core i5-12450H",
+      "ram_gb": 16,
+      "storage_gb": 512,
+      "storage_type": "NVMe SSD",
+      "display_size": 15.6,
+      "display_resolution": "1920x1080 Full HD 144Hz",
+      "battery_hours": 5.0,
+      "weight_kg": 2.29,
+      "gpu": "NVIDIA GeForce RTX 2050 4GB",
+      "operating_system": "Windows 11 Home"
+    },
+    "pros": [
+      "Dedicated RTX GPU for casual gaming under 60k",
+      "Smooth 144Hz display for fast-paced titles",
+      "Comfortable keyboard layout"
+    ],
+    "cons": [
+      "Heavier build at 2.29kg",
+      "Slight display hinge wobble",
+      "Battery drains quickly when gaming unplugged"
+    ],
+    "source": "synthetic_demo",
+    "source_id": "demo_laptop_005"
+  },
+  {
+    "product_id": "demo_laptop_006",
+    "name": "Acer Swift Go 14 OLED",
+    "brand": "Acer",
+    "category": "laptop",
+    "price_inr": 64990,
+    "rating": 4.4,
+    "review_count": 3,
+    "description": "Lightweight creator laptop equipped with a stunning 2.8K OLED 90Hz display and 13th Gen Intel i5 processor.",
+    "specifications": {
+      "processor": "Intel Core i5-13500H",
+      "ram_gb": 16,
+      "storage_gb": 512,
+      "storage_type": "NVMe SSD",
+      "display_size": 14.0,
+      "display_resolution": "2880x1800 2.8K OLED 90Hz",
+      "battery_hours": 9.0,
+      "weight_kg": 1.25,
+      "gpu": "Intel Iris Xe Graphics",
+      "operating_system": "Windows 11 Home"
+    },
+    "pros": [
+      "Gorgeous 2.8K OLED screen with 100% DCI-P3 color gamut",
+      "Lightweight 1.25kg aluminum body",
+      "1440p QHD webcam for sharp video calls"
+    ],
+    "cons": ["Speakers lack deep bass response", "Glares outdoors due to glossy OLED finish"],
+    "source": "synthetic_demo",
+    "source_id": "demo_laptop_006"
+  },
+  {
+    "product_id": "demo_laptop_007",
+    "name": "ASUS Vivobook 16X K3605",
+    "brand": "ASUS",
+    "category": "laptop",
+    "price_inr": 72990,
+    "rating": 4.3,
+    "review_count": 3,
+    "description": "Large 16-inch 120Hz workstation laptop powered by Intel i5 H-series CPU and RTX 3050 graphics.",
+    "specifications": {
+      "processor": "Intel Core i5-12450H",
+      "ram_gb": 16,
+      "storage_gb": 512,
+      "storage_type": "NVMe SSD",
+      "display_size": 16.0,
+      "display_resolution": "1920x1200 WUXGA 120Hz",
+      "battery_hours": 6.5,
+      "weight_kg": 1.8,
+      "gpu": "NVIDIA GeForce RTX 3050 4GB",
+      "operating_system": "Windows 11 Home"
+    },
+    "pros": [
+      "Large 16-inch display great for multitasking and side-by-side windows",
+      "Dedicated RTX 3050 GPU for photo/video rendering",
+      "Physical webcam privacy shutter"
+    ],
+    "cons": ["Power brick is bulky", "Battery life drops under 4 hours during heavy GPU work"],
+    "source": "synthetic_demo",
+    "source_id": "demo_laptop_007"
+  },
+  {
+    "product_id": "demo_laptop_008",
+    "name": "Apple MacBook Pro 14 M3",
+    "brand": "Apple",
+    "category": "laptop",
+    "price_inr": 169900,
+    "rating": 4.8,
+    "review_count": 3,
+    "description": "Pro laptop with Apple M3 chip, Liquid Retina XDR 120Hz display, and extraordinary 22-hour battery life.",
+    "specifications": {
+      "processor": "Apple M3 (8-core CPU, 10-core GPU)",
+      "ram_gb": 18,
+      "storage_gb": 512,
+      "storage_type": "SSD",
+      "display_size": 14.2,
+      "display_resolution": "3024x1964 Liquid Retina XDR 120Hz",
+      "battery_hours": 22.0,
+      "weight_kg": 1.55,
+      "gpu": "Integrated 10-core GPU",
+      "operating_system": "macOS"
+    },
+    "pros": [
+      "Unbeatable real-world battery endurance (up to 22 hours)",
+      "ProMotion 120Hz Liquid Retina XDR display",
+      "HDMI port and SDXC card reader included"
+    ],
+    "cons": ["High initial price tag", "Non-upgradeable unified memory"],
+    "source": "synthetic_demo",
+    "source_id": "demo_laptop_008"
+  },
+  {
+    "product_id": "demo_laptop_009",
+    "name": "HP Pavilion Aero 13",
+    "brand": "HP",
+    "category": "laptop",
+    "price_inr": 74990,
+    "rating": 4.5,
+    "review_count": 3,
+    "description": "Featherweight magnesium alloy laptop weighing under 1 kg with AMD Ryzen 7 7735U and 1TB SSD.",
+    "specifications": {
+      "processor": "AMD Ryzen 7 7735U",
+      "ram_gb": 16,
+      "storage_gb": 1024,
+      "storage_type": "NVMe SSD",
+      "display_size": 13.3,
+      "display_resolution": "1920x1200 WUXGA IPS",
+      "battery_hours": 10.0,
+      "weight_kg": 0.97,
+      "gpu": "AMD Radeon 680M Graphics",
+      "operating_system": "Windows 11 Home"
+    },
+    "pros": [
+      "Extremely lightweight under 1 kg (0.97 kg)",
+      "Generous 1TB NVMe storage capacity",
+      "Strong integrated Radeon 680M graphics"
+    ],
+    "cons": ["Trackpad size is small", "Keyboard flex when pressing keys hard in center"],
+    "source": "synthetic_demo",
+    "source_id": "demo_laptop_009"
+  },
+  {
+    "product_id": "demo_laptop_010",
+    "name": "Lenovo ThinkPad E14 Gen 5",
+    "brand": "Lenovo",
+    "category": "laptop",
+    "price_inr": 68500,
+    "rating": 4.5,
+    "review_count": 3,
+    "description": "Durable business laptop with legendary ThinkPad keyboard comfort, Ryzen 7 processor, and MIL-STD build reliability.",
+    "specifications": {
+      "processor": "AMD Ryzen 7 7730U",
+      "ram_gb": 16,
+      "storage_gb": 512,
+      "storage_type": "NVMe SSD",
+      "display_size": 14.0,
+      "display_resolution": "1920x1200 WUXGA IPS",
+      "battery_hours": 10.5,
+      "weight_kg": 1.41,
+      "gpu": "AMD Radeon Graphics",
+      "operating_system": "Windows 11 Pro"
+    },
+    "pros": [
+      "Industry-leading comfortable typing experience",
+      "Robust durable build quality",
+      "Excellent battery efficiency with Ryzen 7"
+    ],
+    "cons": [
+      "Display brightness is average outdoors (300 nits)",
+      "Plain utilitarian design aesthetic"
+    ],
+    "source": "synthetic_demo",
+    "source_id": "demo_laptop_010"
+  },
+  {
+    "product_id": "demo_smartphone_001",
+    "name": "Samsung Galaxy S24 5G",
+    "brand": "Samsung",
+    "category": "smartphone",
+    "price_inr": 74999,
+    "rating": 4.6,
+    "review_count": 3,
+    "description": "Compact flagship smartphone with 6.2-inch 120Hz Dynamic AMOLED display, Exynos 2400, and 7 years of OS updates.",
+    "specifications": {
+      "processor": "Exynos 2400",
+      "ram_gb": 8,
+      "storage_gb": 256,
+      "display_size": 6.2,
+      "display_type": "Dynamic AMOLED 2X 120Hz",
+      "camera_mp": 50.0,
+      "battery_mah": 4000,
+      "fast_charging_w": 25.0,
+      "weight_g": 167.0,
+      "operating_system": "Android 14",
+      "5g": true
+    },
+    "pros": [
+      "Compact ergonomic single-handed design",
+      "Super bright display up to 2600 nits",
+      "Long-term 7 years OS software support"
+    ],
+    "cons": ["Charging speed limited to 25W", "Exynos processor runs warmer under extended gaming"],
+    "source": "synthetic_demo",
+    "source_id": "demo_smartphone_001"
+  },
+  {
+    "product_id": "demo_smartphone_002",
+    "name": "iPhone 15 (128GB)",
+    "brand": "Apple",
+    "category": "smartphone",
+    "price_inr": 71900,
+    "rating": 4.7,
+    "review_count": 3,
+    "description": "Flagship smartphone featuring Dynamic Island, 48MP main camera with 2x telephoto crop, and USB-C port.",
+    "specifications": {
+      "processor": "Apple A16 Bionic",
+      "ram_gb": 6,
+      "storage_gb": 128,
+      "display_size": 6.1,
+      "display_type": "Super Retina XDR OLED",
+      "camera_mp": 48.0,
+      "battery_mah": 3349,
+      "fast_charging_w": 20.0,
+      "weight_g": 171.0,
+      "operating_system": "iOS 17",
+      "5g": true
+    },
+    "pros": [
+      "Dynamic Island interactive UI",
+      "48MP camera takes crisp photos and 4K video",
+      "USB-C connector charging standard"
+    ],
+    "cons": [
+      "Standard 60Hz display refresh rate at over 70k price",
+      "Slow USB 2.0 data transfer speeds over cable"
+    ],
+    "source": "synthetic_demo",
+    "source_id": "demo_smartphone_002"
+  },
+  {
+    "product_id": "demo_smartphone_003",
+    "name": "OnePlus 12 5G",
+    "brand": "OnePlus",
+    "category": "smartphone",
+    "price_inr": 64999,
+    "rating": 4.6,
+    "review_count": 3,
+    "description": "Performance flagship with Snapdragon 8 Gen 3, Hasselblad camera system, and 100W fast charging.",
+    "specifications": {
+      "processor": "Snapdragon 8 Gen 3",
+      "ram_gb": 12,
+      "storage_gb": 256,
+      "display_size": 6.82,
+      "display_type": "2K LTPO AMOLED 120Hz",
+      "camera_mp": 50.0,
+      "battery_mah": 5400,
+      "fast_charging_w": 100.0,
+      "weight_g": 220.0,
+      "operating_system": "Android 14",
+      "5g": true
+    },
+    "pros": [
+      "Lightning 100W SUPERVOOC charging (0-100% in 26 min)",
+      "Huge 5400mAh battery life",
+      "Top-tier Snapdragon 8 Gen 3 speed"
+    ],
+    "cons": [
+      "Heavier and bulky phone at 220g",
+      "Curved display edges lead to occasional palm touches"
+    ],
+    "source": "synthetic_demo",
+    "source_id": "demo_smartphone_003"
+  },
+  {
+    "product_id": "demo_smartphone_004",
+    "name": "Google Pixel 8a 5G",
+    "brand": "Google",
+    "category": "smartphone",
+    "price_inr": 52999,
+    "rating": 4.3,
+    "review_count": 3,
+    "description": "Compact camera powerhouse with Google Tensor G3, clean Pixel Android interface, and AI camera features.",
+    "specifications": {
+      "processor": "Google Tensor G3",
+      "ram_gb": 8,
+      "storage_gb": 128,
+      "display_size": 6.1,
+      "display_type": "Actua OLED 120Hz",
+      "camera_mp": 64.0,
+      "battery_mah": 4492,
+      "fast_charging_w": 18.0,
+      "weight_g": 188.0,
+      "operating_system": "Android 14",
+      "5g": true
+    },
+    "pros": [
+      "Outstanding daylight and low-light photography",
+      "Clean stock Pixel OS without bloatware",
+      "7 years of Android feature drops"
+    ],
+    "cons": [
+      "Tensor G3 thermal throttling during long gaming sessions",
+      "Slow 18W wired charging speed"
+    ],
+    "source": "synthetic_demo",
+    "source_id": "demo_smartphone_004"
+  },
+  {
+    "product_id": "demo_smartphone_005",
+    "name": "iQOO Neo 9 Pro 5G",
+    "brand": "iQOO",
+    "category": "smartphone",
+    "price_inr": 36999,
+    "rating": 4.5,
+    "review_count": 3,
+    "description": "Gaming smartphone powered by Snapdragon 8 Gen 2, Supercomputing Chip Q1, 144Hz display, and 120W charging.",
+    "specifications": {
+      "processor": "Snapdragon 8 Gen 2",
+      "ram_gb": 8,
+      "storage_gb": 256,
+      "display_size": 6.78,
+      "display_type": "1.5K LTPO AMOLED 144Hz",
+      "camera_mp": 50.0,
+      "battery_mah": 5160,
+      "fast_charging_w": 120.0,
+      "weight_g": 190.0,
+      "operating_system": "Android 14",
+      "5g": true
+    },
+    "pros": [
+      "Incredible 144Hz gaming performance under 40k",
+      "Blazing 120W fast charging",
+      "Sony IMX920 main camera delivers good photos"
+    ],
+    "cons": ["Funtouch OS bloatware applications", "Plastic frame build"],
+    "source": "synthetic_demo",
+    "source_id": "demo_smartphone_005"
+  },
+  {
+    "product_id": "demo_smartphone_006",
+    "name": "Redmi Note 13 Pro+ 5G",
+    "brand": "Xiaomi",
+    "category": "smartphone",
+    "price_inr": 31999,
+    "rating": 4.2,
+    "review_count": 3,
+    "description": "Upper mid-range smartphone featuring 200MP camera with OIS, IP68 water resistance rating, and 120W HyperCharge.",
+    "specifications": {
+      "processor": "MediaTek Dimensity 7200 Ultra",
+      "ram_gb": 12,
+      "storage_gb": 256,
+      "display_size": 6.67,
+      "display_type": "1.5K Curved AMOLED 120Hz",
+      "camera_mp": 200.0,
+      "battery_mah": 5000,
+      "fast_charging_w": 120.0,
+      "weight_g": 204.0,
+      "operating_system": "Android 13",
+      "5g": true
+    },
+    "pros": [
+      "IP68 dust and water resistance build",
+      "200MP main camera detail in daylight",
+      "Ultra-fast 120W charging"
+    ],
+    "cons": [
+      "Low-light portrait photos lack crisp details",
+      "Pre-installed promotional apps during initial setup"
+    ],
+    "source": "synthetic_demo",
+    "source_id": "demo_smartphone_006"
+  },
+  {
+    "product_id": "demo_smartphone_007",
+    "name": "Realme 12 Pro+ 5G",
+    "brand": "Realme",
+    "category": "smartphone",
+    "price_inr": 29999,
+    "rating": 4.4,
+    "review_count": 3,
+    "description": "Portrait-focused phone boasting a 64MP periscope telephoto lens with 3x optical zoom and vegan leather back.",
+    "specifications": {
+      "processor": "Snapdragon 7s Gen 2",
+      "ram_gb": 8,
+      "storage_gb": 128,
+      "display_size": 6.7,
+      "display_type": "FHD+ Curved OLED 120Hz",
+      "camera_mp": 64.0,
+      "battery_mah": 5000,
+      "fast_charging_w": 67.0,
+      "weight_g": 196.0,
+      "operating_system": "Android 14",
+      "5g": true
+    },
+    "pros": [
+      "Dedicated 3x optical periscope lens under 30k",
+      "Premium vegan leather back finish",
+      "Smooth 120Hz curved display"
+    ],
+    "cons": [
+      "Snapdragon 7s Gen 2 is not tuned for heavy 60fps gaming",
+      "Mono speaker output balance is slightly off"
+    ],
+    "source": "synthetic_demo",
+    "source_id": "demo_smartphone_007"
+  },
+  {
+    "product_id": "demo_smartphone_008",
+    "name": "Motorola Edge 50 Fusion",
+    "brand": "Motorola",
+    "category": "smartphone",
+    "price_inr": 22999,
+    "rating": 4.4,
+    "review_count": 3,
+    "description": "Sleek mid-range smartphone with IP68 rating, clean near-stock Android software, and 144Hz curved pOLED display.",
+    "specifications": {
+      "processor": "Snapdragon 7s Gen 2",
+      "ram_gb": 8,
+      "storage_gb": 128,
+      "display_size": 6.7,
+      "display_type": "pOLED Curved 144Hz",
+      "camera_mp": 50.0,
+      "battery_mah": 5000,
+      "fast_charging_w": 68.0,
+      "weight_g": 175.0,
+      "operating_system": "Android 14",
+      "5g": true
+    },
+    "pros": [
+      "Ad-free near-stock Hello UI software experience",
+      "IP68 water immersion protection",
+      "Slim lightweight 175g body"
+    ],
+    "cons": [
+      "Only 2 major Android OS updates guaranteed",
+      "Camera shutter delay in low-light environments"
+    ],
+    "source": "synthetic_demo",
+    "source_id": "demo_smartphone_008"
+  },
+  {
+    "product_id": "demo_smartphone_009",
+    "name": "Poco X6 Pro 5G",
+    "brand": "Poco",
+    "category": "smartphone",
+    "price_inr": 25999,
+    "rating": 4.5,
+    "review_count": 3,
+    "description": "Value performance beast powered by MediaTek Dimensity 8300 Ultra chip and fast UFS 4.0 storage.",
+    "specifications": {
+      "processor": "MediaTek Dimensity 8300 Ultra",
+      "ram_gb": 12,
+      "storage_gb": 512,
+      "display_size": 6.67,
+      "display_type": "1.5K AMOLED 120Hz",
+      "camera_mp": 64.0,
+      "battery_mah": 5000,
+      "fast_charging_w": 67.0,
+      "weight_g": 186.0,
+      "operating_system": "Android 14",
+      "5g": true
+    },
+    "pros": [
+      "Benchmark leader in sub-30k segment",
+      "Massive 512GB UFS 4.0 storage variant",
+      "Vibrant 1.5K display with thin bezels"
+    ],
+    "cons": ["Plastic back body panel feels basic", "Secondary camera performance is average"],
+    "source": "synthetic_demo",
+    "source_id": "demo_smartphone_009"
+  },
+  {
+    "product_id": "demo_smartphone_010",
+    "name": "Nothing Phone (2a) 5G",
+    "brand": "Nothing",
+    "category": "smartphone",
+    "price_inr": 23999,
+    "rating": 4.4,
+    "review_count": 3,
+    "description": "Distinctive smartphone featuring transparent back with Glyph Interface lighting, custom Dimensity 7200 Pro, and Nothing OS.",
+    "specifications": {
+      "processor": "MediaTek Dimensity 7200 Pro",
+      "ram_gb": 8,
+      "storage_gb": 128,
+      "display_size": 6.7,
+      "display_type": "Flexible AMOLED 120Hz",
+      "camera_mp": 50.0,
+      "battery_mah": 5000,
+      "fast_charging_w": 45.0,
+      "weight_g": 190.0,
+      "operating_system": "Android 14",
+      "5g": true
+    },
+    "pros": [
+      "Unique Glyph lighting notifications",
+      "Clean fluid Nothing OS with customized widgets",
+      "Solid battery battery life"
+    ],
+    "cons": ["Charger brick not provided in box", "Plastic rear panel prone to light scuffs"],
+    "source": "synthetic_demo",
+    "source_id": "demo_smartphone_010"
+  },
+  {
+    "product_id": "demo_headphone_001",
+    "name": "Sony WH-1000XM5",
+    "brand": "Sony",
+    "category": "headphone",
+    "price_inr": 29990,
+    "rating": 4.7,
+    "review_count": 3,
+    "description": "Industry-leading Active Noise Cancellation over-ear headphones with 8-microphone voice pickup and LDAC audio.",
+    "specifications": {
+      "type": "Over-Ear",
+      "anc": true,
+      "battery_hours": 30.0,
+      "microphone": true,
+      "weight_g": 250.0,
+      "connectivity": "Bluetooth 5.2 / 3.5mm Wired",
+      "codec": "LDAC, AAC, SBC",
+      "water_resistance": "None"
+    },
+    "pros": [
+      "Best-in-class Active Noise Cancellation (ANC)",
+      "Superb vocal clarity on voice/video calls",
+      "Comfortable light headband design"
+    ],
+    "cons": [
+      "Headphone cups do not fold into compact form factor",
+      "No official IP water resistance rating"
+    ],
+    "source": "synthetic_demo",
+    "source_id": "demo_headphone_001"
+  },
+  {
+    "product_id": "demo_headphone_002",
+    "name": "Bose QuietComfort Ultra Headphones",
+    "brand": "Bose",
+    "category": "headphone",
+    "price_inr": 35900,
+    "rating": 4.6,
+    "review_count": 3,
+    "description": "Premium wireless noise-canceling headphones with Bose Immersive Audio spatial sound and folding travel case.",
+    "specifications": {
+      "type": "Over-Ear",
+      "anc": true,
+      "battery_hours": 24.0,
+      "microphone": true,
+      "weight_g": 254.0,
+      "connectivity": "Bluetooth 5.3 / 2.5mm to 3.5mm Wired",
+      "codec": "aptX Adaptive, AAC, SBC",
+      "water_resistance": "IPX4"
+    },
+    "pros": [
+      "Unrivaled plush cushion comfort for long flights",
+      "Bose Immersive Spatial Audio mode",
+      "Foldable design for easy travel storage"
+    ],
+    "cons": ["High price point", "24-hour battery life is lower than competitors"],
+    "source": "synthetic_demo",
+    "source_id": "demo_headphone_002"
+  },
+  {
+    "product_id": "demo_headphone_003",
+    "name": "Sennheiser Momentum 4 Wireless",
+    "brand": "Sennheiser",
+    "category": "headphone",
+    "price_inr": 24990,
+    "rating": 4.5,
+    "review_count": 3,
+    "description": "Audiophile wireless headphones boasting exceptional 60-hour battery life, 42mm transducer system, and adaptive ANC.",
+    "specifications": {
+      "type": "Over-Ear",
+      "anc": true,
+      "battery_hours": 60.0,
+      "microphone": true,
+      "weight_g": 293.0,
+      "connectivity": "Bluetooth 5.2 / 3.5mm Wired",
+      "codec": "aptX Adaptive, AAC, SBC",
+      "water_resistance": "None"
+    },
+    "pros": [
+      "Massive 60-hour battery life per single charge",
+      "Rich musical sound signature with punchy bass and detailed highs",
+      "Customizable EQ in Sennheiser Smart Control app"
+    ],
+    "cons": [
+      "ANC is slightly less aggressive than Sony XM5",
+      "Touch controls can be overly sensitive"
+    ],
+    "source": "synthetic_demo",
+    "source_id": "demo_headphone_003"
+  },
+  {
+    "product_id": "demo_headphone_004",
+    "name": "Sony WF-1000XM5 TWS",
+    "brand": "Sony",
+    "category": "headphone",
+    "price_inr": 19990,
+    "rating": 4.4,
+    "review_count": 3,
+    "description": "Flagship true wireless noise-canceling earbuds featuring Dynamic Driver X, polyurethane foam tips, and LDAC support.",
+    "specifications": {
+      "type": "In-Ear TWS",
+      "anc": true,
+      "battery_hours": 24.0,
+      "microphone": true,
+      "weight_g": 41.8,
+      "connectivity": "Bluetooth 5.3",
+      "codec": "LDAC, LC3, AAC, SBC",
+      "water_resistance": "IPX4"
+    },
+    "pros": [
+      "Top-tier noise cancellation in tiny earbud format",
+      "High-resolution LDAC bluetooth codec support",
+      "IPX4 sweat resistance for workouts"
+    ],
+    "cons": [
+      "Foam ear tips require precise fitting",
+      "Glossy earbud finish can be slippery to remove from case"
+    ],
+    "source": "synthetic_demo",
+    "source_id": "demo_headphone_004"
+  },
+  {
+    "product_id": "demo_headphone_005",
+    "name": "Apple AirPods Pro (2nd Gen, USB-C)",
+    "brand": "Apple",
+    "category": "headphone",
+    "price_inr": 24900,
+    "rating": 4.8,
+    "review_count": 3,
+    "description": "Iconic wireless earbuds with H2 chip, Adaptive Audio, Conversation Awareness, and USB-C MagSafe charging case.",
+    "specifications": {
+      "type": "In-Ear TWS",
+      "anc": true,
+      "battery_hours": 30.0,
+      "microphone": true,
+      "weight_g": 50.8,
+      "connectivity": "Bluetooth 5.3",
+      "codec": "AAC, SBC",
+      "water_resistance": "IP54"
+    },
+    "pros": [
+      "Natural Transparency mode and dynamic Adaptive Audio",
+      "Seamless pairing and switching across Apple devices",
+      "IP54 dust and sweat resistance for case and earbuds"
+    ],
+    "cons": [
+      "Advanced controls restricted when paired with Android/Windows",
+      "No high-resolution LDAC codec"
+    ],
+    "source": "synthetic_demo",
+    "source_id": "demo_headphone_005"
+  },
+  {
+    "product_id": "demo_headphone_006",
+    "name": "Audio-Technica ATH-M50xBT2",
+    "brand": "Audio-Technica",
+    "category": "headphone",
+    "price_inr": 16990,
+    "rating": 4.5,
+    "review_count": 3,
+    "description": "Wireless version of legendary M50x studio monitor headphones, offering neutral audio precision and 50h battery life.",
+    "specifications": {
+      "type": "Over-Ear",
+      "anc": false,
+      "battery_hours": 50.0,
+      "microphone": true,
+      "weight_g": 307.0,
+      "connectivity": "Bluetooth 5.0 / 3.5mm Wired",
+      "codec": "LDAC, AAC, SBC",
+      "water_resistance": "None"
+    },
+    "pros": [
+      "Flat neutral studio monitor sound profile loved by audio creators",
+      "Long 50-hour battery life",
+      "Includes wired cable for zero-latency audio work"
+    ],
+    "cons": [
+      "No Active Noise Cancellation (passive isolation only)",
+      "Firmer headband clamping force on larger heads"
+    ],
+    "source": "synthetic_demo",
+    "source_id": "demo_headphone_006"
+  },
+  {
+    "product_id": "demo_headphone_007",
+    "name": "JBL Live 770NC",
+    "brand": "JBL",
+    "category": "headphone",
+    "price_inr": 9999,
+    "rating": 4.3,
+    "review_count": 3,
+    "description": "Wireless over-ear headphones delivering signature JBL Pure Bass sound, True Adaptive ANC, and 65 hours of battery.",
+    "specifications": {
+      "type": "Over-Ear",
+      "anc": true,
+      "battery_hours": 65.0,
+      "microphone": true,
+      "weight_g": 256.0,
+      "connectivity": "Bluetooth 5.3 / 3.5mm Wired",
+      "codec": "AAC, SBC",
+      "water_resistance": "None"
+    },
+    "pros": [
+      "Long 65-hour battery life (50 hours with ANC on)",
+      "Punchy JBL Pure Bass sound curve under 10k",
+      "Multi-point Bluetooth connection"
+    ],
+    "cons": ["Ear cup padding is snug on larger ears", "Plastic hinge construction"],
+    "source": "synthetic_demo",
+    "source_id": "demo_headphone_007"
+  },
+  {
+    "product_id": "demo_headphone_008",
+    "name": "Realme Buds Air 6 Pro TWS",
+    "brand": "Realme",
+    "category": "headphone",
+    "price_inr": 4999,
+    "rating": 4.4,
+    "review_count": 3,
+    "description": "Budget TWS earbuds packed with dual dynamic drivers (11mm+6mm), 50dB Hybrid ANC, and Hi-Res LDAC audio.",
+    "specifications": {
+      "type": "In-Ear TWS",
+      "anc": true,
+      "battery_hours": 40.0,
+      "microphone": true,
+      "weight_g": 45.0,
+      "connectivity": "Bluetooth 5.3",
+      "codec": "LDAC, AAC, SBC",
+      "water_resistance": "IPX5"
+    },
+    "pros": [
+      "Dual coaxial drivers produce detailed treble and bass under 5k",
+      "50dB active noise cancellation",
+      "Supports high-res LDAC codec"
+    ],
+    "cons": [
+      "Glossy plastic charging case scratches easily",
+      "Wind noise cancellation in outdoors is moderate"
+    ],
+    "source": "synthetic_demo",
+    "source_id": "demo_headphone_008"
+  },
+  {
+    "product_id": "demo_headphone_009",
+    "name": "OnePlus Buds 3 TWS",
+    "brand": "OnePlus",
+    "category": "headphone",
+    "price_inr": 5499,
+    "rating": 4.3,
+    "review_count": 3,
+    "description": "Feature-packed true wireless earbuds with 49dB Smart Adaptive ANC, LHDC 5.0 audio, and fast charging.",
+    "specifications": {
+      "type": "In-Ear TWS",
+      "anc": true,
+      "battery_hours": 44.0,
+      "microphone": true,
+      "weight_g": 44.0,
+      "connectivity": "Bluetooth 5.3",
+      "codec": "LHDC 5.0, AAC, SBC",
+      "water_resistance": "IP55"
+    },
+    "pros": [
+      "Comfortable stem design fit",
+      "Fast charging gives 7 hours of playback in 10 minutes",
+      "IP55 dust and water resistance"
+    ],
+    "cons": [
+      "LHDC 5.0 high-res codec is limited to compatible smartphones",
+      "Default sound profile is bass heavy"
+    ],
+    "source": "synthetic_demo",
+    "source_id": "demo_headphone_009"
+  },
+  {
+    "product_id": "demo_headphone_010",
+    "name": "Sony WH-CH720N Wireless",
+    "brand": "Sony",
+    "category": "headphone",
+    "price_inr": 9990,
+    "rating": 4.2,
+    "review_count": 3,
+    "description": "Ultra-lightweight 192g over-ear wireless headphones with Integrated Processor V1 noise cancellation and 35-hour battery.",
+    "specifications": {
+      "type": "Over-Ear",
+      "anc": true,
+      "battery_hours": 35.0,
+      "microphone": true,
+      "weight_g": 192.0,
+      "connectivity": "Bluetooth 5.2 / 3.5mm Wired",
+      "codec": "AAC, SBC",
+      "water_resistance": "None"
+    },
+    "pros": [
+      "Featherlight 192g weight prevents headband pressure",
+      "Uses Sony V1 noise cancellation processor",
+      "35-hour battery life"
+    ],
+    "cons": ["Plastic body construction feels basic", "Ear cups do not fold inwards"],
+    "source": "synthetic_demo",
+    "source_id": "demo_headphone_010"
+  },
+  {
+    "product_id": "demo_shoes_001",
+    "name": "Nike Air Max 270",
+    "brand": "Nike",
+    "category": "shoes",
+    "price_inr": 8999,
+    "rating": 4.6,
+    "review_count": 3,
+    "description": "Premium everyday lifestyle and running shoes with Max Air 270 unit for responsive cushioning.",
+    "specifications": {
+      "type": "Running Shoes",
+      "size": "UK 9",
+      "gender": "Unisex",
+      "closure": "Lace-Up",
+      "upper_material": "Mesh",
+      "sole_material": "Rubber"
+    },
+    "pros": [
+      "Plush 270-degree Max Air heel cushioning",
+      "Breathable engineered mesh upper",
+      "Sleek athletic design"
+    ],
+    "cons": ["Snug fit around forefoot", "Higher price point"],
+    "source": "synthetic_demo",
+    "source_id": "demo_shoes_001"
+  },
+  {
+    "product_id": "demo_shoes_002",
+    "name": "Puma Velocity Nitro 3",
+    "brand": "Puma",
+    "category": "shoes",
+    "price_inr": 4999,
+    "rating": 4.5,
+    "review_count": 3,
+    "description": "High-value daily running shoes featuring NITRO foam cushioning and durable PUMAGRIP traction.",
+    "specifications": {
+      "type": "Running Shoes",
+      "size": "UK 9",
+      "gender": "Men",
+      "closure": "Lace-Up",
+      "upper_material": "Textile",
+      "sole_material": "PUMAGRIP Rubber"
+    },
+    "pros": [
+      "Responsive NITRO foam under 5000 budget",
+      "Exceptional wet and dry outsole grip",
+      "Durable daily training build"
+    ],
+    "cons": ["Colorways are limited", "Heel counter is firm initially"],
+    "source": "synthetic_demo",
+    "source_id": "demo_shoes_002"
+  },
+  {
+    "product_id": "demo_skincare_001",
+    "name": "CeraVe Moisturizing Cream 100ml",
+    "brand": "CeraVe",
+    "category": "skincare",
+    "price_inr": 1200,
+    "rating": 4.8,
+    "review_count": 3,
+    "description": "Rich non-greasy moisturizing cream with 3 essential ceramides and hyaluronic acid for dry skin.",
+    "specifications": {
+      "type": "Moisturizer",
+      "skin_type": "Dry to Very Dry Skin",
+      "volume_ml": 100,
+      "key_ingredients": "Ceramides 1, 3, 6-II, Hyaluronic Acid",
+      "fragrance_free": true
+    },
+    "pros": [
+      "Restores protective skin barrier with 3 ceramides",
+      "24-hour hydration with MVE technology",
+      "Dermatologist recommended for sensitive dry skin"
+    ],
+    "cons": ["Rich texture may feel heavy on oily skin", "Tub container lacks pump dispenser"],
+    "source": "synthetic_demo",
+    "source_id": "demo_skincare_001"
+  },
+  {
+    "product_id": "demo_skincare_002",
+    "name": "Cetaphil Daily Facial Moisturizer 100ml",
+    "brand": "Cetaphil",
+    "category": "skincare",
+    "price_inr": 850,
+    "rating": 4.6,
+    "review_count": 3,
+    "description": "Lightweight hydrating facial moisturizer formulated with glycerin and vitamins for sensitive dry skin under 1000.",
+    "specifications": {
+      "type": "Moisturizer",
+      "skin_type": "Dry to Sensitive Skin",
+      "volume_ml": 100,
+      "key_ingredients": "Glycerin, Vitamin B5, Vitamin E",
+      "fragrance_free": true
+    },
+    "pros": [
+      "Affordable moisturizer under 1000 budget",
+      "Fast-absorbing lightweight hydration",
+      "Hypoallergenic and non-comedogenic"
+    ],
+    "cons": ["Does not contain SPF sun protection", "Simple basic formulation"],
+    "source": "synthetic_demo",
+    "source_id": "demo_skincare_002"
+  },
+  {
+    "product_id": "demo_furniture_001",
+    "name": "Green Soul Ergonomic Study Table & Chair",
+    "brand": "Green Soul",
+    "category": "furniture",
+    "price_inr": 8990,
+    "rating": 4.5,
+    "review_count": 3,
+    "description": "Ergonomic breathable mesh chair and sturdy wooden study desk combination for comfortable home office setups.",
+    "specifications": {
+      "type": "Study Furniture",
+      "material": "High Density Mesh & Engineered Wood",
+      "adjustable_height": true,
+      "warranty_years": 3
+    },
+    "pros": [
+      "Ergonomic lumbar support for long study sessions",
+      "Heavy-duty wooden desk construction",
+      "3-year manufacturer warranty"
+    ],
+    "cons": ["Requires self-assembly", "Large packaging box"],
+    "source": "synthetic_demo",
+    "source_id": "demo_furniture_001"
+  },
+  {
+    "product_id": "demo_shoes_003",
+    "name": "Adidas Ultraboost Light Running Shoes",
+    "brand": "Adidas",
+    "category": "shoes",
+    "price_inr": 11999,
+    "rating": 4.7,
+    "review_count": 3,
+    "description": "High-performance running shoes equipped with Light Boost cushioning and Continental rubber outsole for maximum energy return.",
+    "specifications": {
+      "type": "Running Shoes",
+      "size": "UK 9",
+      "gender": "Men",
+      "closure": "Lace-Up",
+      "upper_material": "Primeknit+ Textile",
+      "sole_material": "Continental Better Rubber"
+    },
+    "pros": [
+      "Lightweight responsive Boost midsole",
+      "Reliable Continental rubber traction in all conditions",
+      "Adaptive supportive Primeknit upper"
+    ],
+    "cons": ["Premium price point", "Snug fit requires half-size up for wide feet"],
+    "source": "synthetic_demo",
+    "source_id": "demo_shoes_003"
+  },
+  {
+    "product_id": "demo_clothing_001",
+    "name": "Levi's 511 Slim Fit Stretch Jeans",
+    "brand": "Levi's",
+    "category": "clothing",
+    "price_inr": 2899,
+    "rating": 4.6,
+    "review_count": 3,
+    "description": "Modern slim-cut denim jeans with added stretch for all-day mobility and classic 5-pocket styling.",
+    "specifications": {
+      "type": "Jeans",
+      "fabric": "99% Cotton, 1% Elastane",
+      "fit": "Slim Fit",
+      "closure": "Zip Fly with Button",
+      "gender": "Men",
+      "care": "Machine Wash Cold"
+    },
+    "pros": [
+      "Authentic durable ring-spun denim",
+      "Comfortable subtle stretch without losing shape",
+      "Versatile styling for casual or smart occasions"
+    ],
+    "cons": ["Indigo dye may bleed on initial wash", "Slightly snug around thighs initially"],
+    "source": "synthetic_demo",
+    "source_id": "demo_clothing_001"
+  },
+  {
+    "product_id": "demo_clothing_002",
+    "name": "Uniqlo Supima Cotton Crew Neck T-Shirt",
+    "brand": "Uniqlo",
+    "category": "clothing",
+    "price_inr": 1290,
+    "rating": 4.7,
+    "review_count": 3,
+    "description": "Premium everyday crew neck tee crafted from 100% extra-long staple Supima cotton for an exceptionally smooth texture.",
+    "specifications": {
+      "type": "T-Shirt",
+      "fabric": "100% Supima Cotton",
+      "fit": "Regular Fit",
+      "closure": "Pull On",
+      "gender": "Unisex",
+      "care": "Machine Wash Warm"
+    },
+    "pros": [
+      "100% long-staple Supima cotton feels silky and soft",
+      "Clean collar ribbing stays flat after repeated washes",
+      "Excellent breathability in warm weather"
+    ],
+    "cons": [
+      "Fabric is lightweight so white color is slightly sheer",
+      "Regular fit runs slightly long"
+    ],
+    "source": "synthetic_demo",
+    "source_id": "demo_clothing_002"
+  },
+  {
+    "product_id": "demo_clothing_003",
+    "name": "Allen Solly Men's Regular Fit Polo",
+    "brand": "Allen Solly",
+    "category": "clothing",
+    "price_inr": 1099,
+    "rating": 4.4,
+    "review_count": 3,
+    "description": "Smart-casual pique knit polo shirt featuring a ribbed collar and classic two-button placket.",
+    "specifications": {
+      "type": "Polo T-Shirt",
+      "fabric": "60% Cotton, 40% Polyester",
+      "fit": "Regular Fit",
+      "closure": "Two-Button Placket",
+      "gender": "Men",
+      "care": "Machine Wash"
+    },
+    "pros": [
+      "Breathable pique knit construction",
+      "Wrinkle-resistant poly-cotton blend",
+      "Good collar stiffness for professional work wear"
+    ],
+    "cons": ["Poly blend feels warmer under direct sun", "Color fades after multiple hot washes"],
+    "source": "synthetic_demo",
+    "source_id": "demo_clothing_003"
+  },
+  {
+    "product_id": "demo_skincare_003",
+    "name": "The Ordinary Niacinamide 10% + Zinc 1% (30ml)",
+    "brand": "The Ordinary",
+    "category": "skincare",
+    "price_inr": 700,
+    "rating": 4.6,
+    "review_count": 3,
+    "description": "High-strength vitamin and mineral blemish formula designed to balance visible sebum activity and improve skin texture.",
+    "specifications": {
+      "type": "Facial Serum",
+      "skin_type": "Oily to Combination Skin",
+      "volume_ml": 30,
+      "key_ingredients": "Niacinamide (Vitamin B3), Zinc PCA",
+      "fragrance_free": true
+    },
+    "pros": [
+      "Visibly reduces excess shine and minimizes pores",
+      "Affordable clinical-grade active ingredients",
+      "Fragrance-free and oil-free formulation"
+    ],
+    "cons": [
+      "Can pill if applied under heavy creams too quickly",
+      "Not a dedicated treatment for persistent cystic acne"
+    ],
+    "source": "synthetic_demo",
+    "source_id": "demo_skincare_003"
+  },
+  {
+    "product_id": "demo_furniture_002",
+    "name": "Wakefit ErgoTech High Back Ergonomic Office Chair",
+    "brand": "Wakefit",
+    "category": "furniture",
+    "price_inr": 6499,
+    "rating": 4.6,
+    "review_count": 3,
+    "description": "Ergonomic mesh task chair with 2D adjustable lumbar support, 3D armrests, and multi-position tilt lock mechanism.",
+    "specifications": {
+      "type": "Office Chair",
+      "material": "High-Density Breathable Mesh & Heavy Duty Nylon",
+      "adjustable_height": true,
+      "warranty_years": 3
+    },
+    "pros": [
+      "Contoured lumbar support prevents lower back fatigue",
+      "Heavy duty Class 4 hydraulic gas lift",
+      "3-year direct manufacturer warranty"
+    ],
+    "cons": [
+      "Seat cushion foam is firm for first two weeks",
+      "Assembly manual illustrations are basic"
+    ],
+    "source": "synthetic_demo",
+    "source_id": "demo_furniture_002"
+  },
+  {
+    "product_id": "demo_furniture_003",
+    "name": "IKEA Linnmon Study Desk with Adils Legs",
+    "brand": "IKEA",
+    "category": "furniture",
+    "price_inr": 3990,
+    "rating": 4.5,
+    "review_count": 3,
+    "description": "Clean Scandinavian 100x60cm study desk with durable pre-drilled tabletop and sturdy powder-coated steel legs.",
+    "specifications": {
+      "type": "Study Desk",
+      "material": "Fibreboard Tabletop & Steel Legs",
+      "adjustable_height": false,
+      "warranty_years": 1
+    },
+    "pros": [
+      "Spacious uncluttered desktop area for laptop and monitor",
+      "Tool-free leveling feet for uneven flooring",
+      "Fast 15-minute screw-in assembly"
+    ],
+    "cons": [
+      "Fixed 73cm desk height",
+      "Honeycomb paper core cannot support extreme clamp monitor mounts"
+    ],
+    "source": "synthetic_demo",
+    "source_id": "demo_furniture_003"
+  },
+  {
+    "product_id": "demo_books_001",
+    "name": "Atomic Habits by James Clear",
+    "brand": "Penguin Random House",
+    "category": "books",
+    "price_inr": 499,
+    "rating": 4.9,
+    "review_count": 3,
+    "description": "Comprehensive practical guide on how small everyday atomic changes compound into remarkable long-term life results.",
+    "specifications": {
+      "author": "James Clear",
+      "format": "Paperback",
+      "pages": 320,
+      "language": "English",
+      "publisher": "Random House Business"
+    },
+    "pros": [
+      "Clear 4-step framework (Cue, Craving, Response, Reward)",
+      "High density of actionable practical takeaways",
+      "Engaging real-world case studies and habit scorecards"
+    ],
+    "cons": [
+      "Repetition of core concepts to reinforce retention",
+      "Few technical neuroscience deep-dives"
+    ],
+    "source": "synthetic_demo",
+    "source_id": "demo_books_001"
+  },
+  {
+    "product_id": "demo_books_002",
+    "name": "The Psychology of Money by Morgan Housel",
+    "brand": "Harriman House",
+    "category": "books",
+    "price_inr": 399,
+    "rating": 4.8,
+    "review_count": 3,
+    "description": "19 short stories exploring the strange behavioral biases and psychological traits that govern financial decision making.",
+    "specifications": {
+      "author": "Morgan Housel",
+      "format": "Paperback",
+      "pages": 256,
+      "language": "English",
+      "publisher": "Jaico Publishing House"
+    },
+    "pros": [
+      "Masterful storytelling on emotional discipline versus spreadsheet logic",
+      "Concise chapters that can be read in single sitting",
+      "Actionable philosophy for staying wealthy over getting rich quickly"
+    ],
+    "cons": [
+      "Focuses on behavioral principles rather than specific asset allocation formulas",
+      "Short length"
+    ],
+    "source": "synthetic_demo",
+    "source_id": "demo_books_002"
+  },
+  {
+    "product_id": "demo_books_003",
+    "name": "Deep Work by Cal Newport",
+    "brand": "Grand Central Publishing",
+    "category": "books",
+    "price_inr": 450,
+    "rating": 4.7,
+    "review_count": 3,
+    "description": "Rules for focused success in a distracted world, explaining why uninterrupted deep concentration is the super-power of the 21st century.",
+    "specifications": {
+      "author": "Cal Newport",
+      "format": "Paperback",
+      "pages": 304,
+      "language": "English",
+      "publisher": "Piatkus"
+    },
+    "pros": [
+      "Powerful counter-argument against modern multitasking culture",
+      "Four concrete scheduling philosophies for knowledge workers",
+      "Actionable rituals for deep concentration"
+    ],
+    "cons": [
+      "Can feel demanding to implement in corporate open-plan jobs",
+      "Academic case studies in opening half"
+    ],
+    "source": "synthetic_demo",
+    "source_id": "demo_books_003"
+  },
+  {
+    "product_id": "demo_groceries_001",
+    "name": "Pintola All-Natural Crunchy Peanut Butter 1kg",
+    "brand": "Pintola",
+    "category": "groceries",
+    "price_inr": 425,
+    "rating": 4.8,
+    "review_count": 3,
+    "description": "Pure high-protein peanut butter made with 100% roasted peanuts, containing zero added sugar, hydrogenated oils, or salt.",
+    "specifications": {
+      "dietary_type": "100% Roasted Peanuts (No Sugar / No Salt)",
+      "net_quantity": "1 kg",
+      "protein_per_serving": "30g per 100g",
+      "shelf_life": "9 Months",
+      "format": "Crunchy"
+    },
+    "pros": [
+      "Single-ingredient purity with zero hydrogenated palm oil or trans fats",
+      "Rich 30g natural protein per 100g serving for fitness enthusiasts",
+      "Wholesome roasted peanut aroma and crunchy texture"
+    ],
+    "cons": [
+      "Natural peanut oil separates on top and requires stirring",
+      "Crunchy pieces can tear soft sandwich bread"
+    ],
+    "source": "synthetic_demo",
+    "source_id": "demo_groceries_001"
+  },
+  {
+    "product_id": "demo_groceries_002",
+    "name": "Tata Sampann Organic Unpolished Toor Dal 1kg",
+    "brand": "Tata Sampann",
+    "category": "groceries",
+    "price_inr": 195,
+    "rating": 4.7,
+    "review_count": 3,
+    "description": "Certified organic unpolished yellow pigeon peas grown without synthetic fertilizers or chemical polish, preserving natural wholesome nutrition.",
+    "specifications": {
+      "dietary_type": "Certified Organic Unpolished Pulses",
+      "net_quantity": "1 kg",
+      "protein_per_serving": "22g per 100g",
+      "shelf_life": "12 Months",
+      "format": "Whole / Split Dal"
+    },
+    "pros": [
+      "Unpolished dal retains wholesome dietary fiber and protein",
+      "Grown according to stringent NPOP organic standards",
+      "Superior authentic aroma and rich creamy tadka texture"
+    ],
+    "cons": [
+      "Requires 5-10 minutes longer pressure cooking due to natural bran layer",
+      "Slightly premium price compared to bulk market dal"
+    ],
+    "source": "synthetic_demo",
+    "source_id": "demo_groceries_002"
+  },
+  {
+    "product_id": "demo_groceries_003",
+    "name": "Twinings Pure Green Tea 100 Tea Bags",
+    "brand": "Twinings",
+    "category": "groceries",
+    "price_inr": 520,
+    "rating": 4.6,
+    "review_count": 3,
+    "description": "Selected pure Chinese green tea leaves delivering an invigorating, smooth and subtly floral cup rich in natural antioxidants.",
+    "specifications": {
+      "dietary_type": "100% Pure Green Tea Leaves",
+      "net_quantity": "100 Tea Bags (200g)",
+      "protein_per_serving": "0g",
+      "shelf_life": "24 Months",
+      "format": "Enveloped Tea Bags"
+    },
+    "pros": [
+      "Delicate smooth flavour without harsh astringency or bitterness",
+      "Individually sealed foil envelopes guarantee peak leaf freshness",
+      "Zero added sugar or artificial flavorings"
+    ],
+    "cons": [
+      "Light flavor may be too subtle for fans of heavy roasted green tea",
+      "Higher price than unpackaged loose leaves"
+    ],
+    "source": "synthetic_demo",
+    "source_id": "demo_groceries_003"
+  }
+]
